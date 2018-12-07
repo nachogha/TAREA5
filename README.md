@@ -1,4 +1,5 @@
 # TAREA5
+<<<<<<< HEAD
 ---
 title: "INDEX"
 output: html_document
@@ -30,3 +31,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 
 
+=======
+Tarea5 :heart:
+caca porto
+>>>>>>> 570a79c99cdf69be5cd7cb0a6a518f13be3a325f
