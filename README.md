@@ -33,5 +33,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 =======
 Tarea5 :heart:
-caca porto
+caca porto que talca
 >>>>>>> 570a79c99cdf69be5cd7cb0a6a518f13be3a325f
+
