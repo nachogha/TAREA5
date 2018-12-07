@@ -1,4 +1,7 @@
-# TAREA5
+=======
+Tarea5 
+caca porto que talca
+>>>>>>> 570a79c99cdf69be5cd7cb0a6a518f13be3a325f
 <<<<<<< HEAD
 ---
 title: "INDEX"
@@ -31,8 +34,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 
 
-=======
-Tarea5 :heart:
-caca porto que talca
->>>>>>> 570a79c99cdf69be5cd7cb0a6a518f13be3a325f
+
 
